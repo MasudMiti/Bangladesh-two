@@ -1,17 +1,5 @@
 ## Requirements (50)
 
-### 3. Recent News
-
-- A section for showcasing the latest updates with two well-designed cards:
-  - **Card 1**: Displays an image on the left and content on the right.
-  - **Card 2**: Displays an image on the right and content on the left.
-  - Both cards include:
-    - News Title and Details.
-    - Channel Logo and Publication Time.
-    - A button at the bottom for user interaction.
-
----
-
 ### 4. Donate For Bangladesh
 
 - A call-to-action section with:
