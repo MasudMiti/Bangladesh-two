@@ -1,15 +1,5 @@
 ## Requirements (50)
 
-### 1. Banner Section
-
-- A visually appealing banner with:
-  - **Background Color**: Creates contrast and grabs user attention.
-  - **Heading and Text**: Positioned on the left to highlight key information.
-  - **Image**: Placed on the right to complement the content.
-  - **Alignment**: Proper use of margin and padding ensures all elements align as Figma.
-
----
-
 ### 2. The Vision of Future
 
 - A section that presents three cards in a row with the following features:
