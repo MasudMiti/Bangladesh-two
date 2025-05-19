@@ -204,3 +204,48 @@ a {
   color: #999;
   font-size: 14px;
 }
+
+/* Opninion Style */
+.table-container {
+  margin: 30px auto;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  padding: 24px 16px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+th,
+td {
+  padding: 18px 12px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+th {
+  background: #d1e7dd;
+  font-size: 1.12em;
+  font-weight: bold;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+tr:last-child td {
+  border-bottom: none;
+}
+.opinion-select {
+  background: #e9f7ef;
+  color: #2e7d32;
+  border: 1px solid #b7e4c7;
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-size: 1em;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.2s, border 0.2s;
+}
+.opinion-select:hover {
+  background: #d1e7dd;
+  border-color: #81c784;
+}

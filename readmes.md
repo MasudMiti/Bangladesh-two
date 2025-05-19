@@ -1,13 +1,5 @@
 ## Requirements (50)
 
-### 2. The Vision of Future
-
-- A section that presents three cards in a row with the following features:
-  - **Distinct Backgrounds**: Each card has a unique background style.
-  - **Image/Icon**: Adds a visual representation to each card.
-  - **Title and Description**: Provides clear and concise information about the card's content.
-  - **Buttons**: Styled with unique colors to differentiate actions.
-
 ### 3. Recent News
 
 - A section for showcasing the latest updates with two well-designed cards:
@@ -47,27 +39,6 @@
   - On Card have a default background.
   - Donate section cards change background on hover.
   - Buttons feature hover animations to enhance interactivity.
-
----
-
-### 7. Quote Section
-
-- A dedicated section to display an inspirational quote with:
-  - **Icon Background**: Styled as per the design for visual appeal.
-
----
-
-## 5 Commit and No Lorem Ipsum
-
-- A minimum of five commits were made to ensure incremental progress.
-- No placeholder text (e.g., Lorem Ipsum) . All content must have to be meaningful and relevant.
-
----
-
-# Technology
-
-- HTML & CSS only
-- You can't use any other technology / Framework.
 
 ---
 
