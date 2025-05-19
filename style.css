@@ -7,8 +7,9 @@
     --tertiary-color: #F7EBCF;
     --color-white: #ffffff;
     --color-text: #0E0E0E;
-    --border-btn: 0.8rem;
+    --border-btn: 0.5rem;
     --border-component: 1rem;
+    --section-title: 40px;
 }
 
 * {
@@ -93,4 +94,40 @@ a {
 .bannerImg {
     width: 475px;
     height: auto;
+}
+
+/* Feature Section */
+.feature {
+    margin: 5rem 0;
+}
+
+.feature-title {
+    font-size: var(--section-title);
+    font-weight: bold;
+}
+
+.feature-card {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    place-items: center;
+    gap: 1.7rem
+}
+
+.card {
+    background: var(--color-white);
+    padding: 24px;
+    border-radius: var(--border-component);
+    border: 1px solid #0e0e0e1e;
+}
+
+.feature-card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0.8rem 0;
+}
+
+.feature-card-description {
+    color: var(--color-text);
+    opacity: 0.7;
 }
